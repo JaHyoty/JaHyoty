@@ -1,7 +1,7 @@
 # 💫 About Me:
-A graduating CS Master's student at University of Illinois - Urbana-Champaign.<br><br>
-🔭 I’m currently working on integrating ML models in real-world applications.<br>
-🌱 I’m currently learning about agentic workloads with LangChain / LangGraph.<br>
+An experienced software engineer that loves creating cool stuff with or without AI.<br><br>
+🔭 I’m currently working on agentic workloads with LangChain / LangGraph.<br>
+🌱 I’m currently learning about enterprise workflows for coding with the use of AI.<br>
 ⚡ Fun fact: I LOVE liquorish!
 
 
