@@ -1,7 +1,7 @@
 # 💫 About Me:
 Data-driven software engineer that loves creating cool stuff with or without AI.<br><br>
 🔭 I’m currently working on agentic workflows.<br>
-🌱 I’m currently building a agent-friendly infrastructure on AWS that helps people adopt agentic frameworks.<br>
+<!-- 🌱 I’m currently building a agent-friendly infrastructure on AWS that helps people adopt agentic frameworks.<br> -->
 ⚡ Fun fact: I LOVE liquorish!
 
 <!--
